@@ -3,3 +3,5 @@ kaggle_dataset: "grassknoted/asl-alphabet"
 data_paths:
   raw       : "data/raw"
   processed : "data/processed"
+  images_raw : "data/raw/asl_alphabet_train"
+  test_raw  : "data/raw/asl_alphabet_test"
