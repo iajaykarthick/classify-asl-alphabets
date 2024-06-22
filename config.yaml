@@ -1,0 +1,5 @@
+kaggle_dataset: "grassknoted/asl-alphabet"
+
+data_paths:
+  raw       : "data/raw"
+  processed : "data/processed"
