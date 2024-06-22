@@ -1,3 +1,4 @@
+numpy==1.24.3
 numpy
 pandas
 scikit-learn
@@ -7,3 +8,5 @@ opencv-python
 matplotlib
 jupyter
 kaggle
+Pillow
+seaborn
